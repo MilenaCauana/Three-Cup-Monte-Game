@@ -16,7 +16,6 @@ def shuffle_list(mylist):
     return mylist
 
 mixedup_list = shuffle_list(mylist)
-print(mixedup_list)
 
 #Construindo uma função para que o usuário possa tentar acertar aonde está a bolinha
 def player_guess():
